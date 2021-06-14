@@ -2,6 +2,8 @@
 
 I'm a Computer Engineer with a specialization in Embedded Systems and IoT.
 
+💼 Currently looking for a Full-Time role in the field of Embedded Firmware/Hardware Development.
+
 - 🌐 **Languages:** C, Python, VHDL, MATLAB
 - 💬 **Communication Protocols:** UART, I2C, SPI
 - ⚙️ **Device Drivers:** GPIO, ADC, PWM, RNG
