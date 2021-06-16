@@ -11,4 +11,4 @@ I'm a Computer Engineer with a specialization in Embedded Systems and IoT.
 - ☁️ **IoT:** MQTT, Zigbee, AWS IoT Core, AWS IoT Analytics, AWS Device Defender, Sagemaker.
 - 💾 **Tools:** Altium, EAGLE, FreeRTOS, Xilinx Vivado, LTSpice, Mentor Graphics Pyxis, Keil, Git
 - 🛠️ **Lab Equipment:** Power Supply, Oscilloscope, Signal Generators, Logic Analyzer, Soldering Iron
-- 👾 **Dev Boards:** STM32L4(ARM), nRF52832, TI-C3200, ESP32, , Nexys 4 DDR FPGA, Arduino, Raspberry Pi
+- 👾 **Dev Boards:** STM32L4(ARM), nRF52832, TI-C3200, ESP32, Nexys 4 DDR FPGA, Arduino, Raspberry Pi
